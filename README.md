@@ -1,2 +1,2 @@
-#Activity 5 kodecamp
-clone template
+# Activity 5 kodecamp
+# clone template
